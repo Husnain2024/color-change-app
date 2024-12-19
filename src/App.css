@@ -1,0 +1,15 @@
+.app_wrap{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.green {
+  background-color: green;
+  color: #fff;
+  padding: 6px 24px;
+  margin: 5px;
+  border: 0;
+  border-radius: 5px;
+}
